@@ -27,5 +27,5 @@ $filteredBooks = array_filter($books, function ($book){
 });
 
 
-
+// Load from template view
 require('index.view.php'); 
